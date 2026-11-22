@@ -1,0 +1,34 @@
+Jmeno,Role v rodine,Rodinna priduzenost,Rodinny Cluster,Vztah,Deti
+Martina Feriancova,Matka,,0,a,b
+Miroslav Ferianc,Otec,,0,a,
+Adrian Ferianc,Bratr,,0,,a
+Matej Ferianc,Bratr,,0,,a
+Vlasta Tomenuka,Babicka,Od matky,0,b,
+Michal Tomenuk,Dedecek,Od matky,0,b,
+Dagmar Kopanicakova,Teta,Od matky,1,c,b
+Alena Kopanicakova,Sestrenice,Od matky,1,,c
+Lukas Kopl,Bratranec,Od matky,1,,c
+Ludmila Fedorova,Teta,Od otce,2,d,
+Oliver Fedor,Stryc,Od otce,2,d,
+Mario Fedor,Bratranec,Od otce,2,e,
+Adam Fedor,Bratranec,Od otce,2,f,
+Astrid Fedorova,Manzelka bratrance,Od otce,2,e,
+Laura Fedorova,Dite,Od otce,2,,e
+Zena Fedorova,Manzelka bratrance,Od otce,2,f,
+Timea Fedorova,Dite,Od otce,2,,f
+Alexander Ferianc,Stryc,Od otce,3,g,
+Helena Feriancova,Teta,Od otce,3,g,
+Adriana Medzihradska,Sestrenice,Od otce,3,,g
+Marek Ferianc,Brantranec,Od otce,3,,g
+Alexander Ferianc jr.,Bratranec,Od otce,3,,g
+Vladimir Ferianc,Stryc,Od otce,3,h,
+Marika Feriancova,Teta,Od otce,3,h,
+Viktoria Feriancova,Sestrenice,Od otce,3,,h
+Eva Bacova,Teta,Od otce,3,i,
+Tadeas Baco,Bratranec,Od otce,3,,i
+Matus Baco,Bratranec,Od otce,3,,i
+Mariana Kralovicova,Prateta,Od matky,4,j,
+Frantisek Kralovic,Stryc,Od matky,4,k,j
+Miroslava Kralovicova,Teta,Od matky,4,k,
+Zena Kralovica,Teta,Od matky,4,l,j
+Muz Kralovic,Stryc,Od matky,4,l,
